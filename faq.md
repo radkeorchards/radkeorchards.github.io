@@ -15,11 +15,3 @@ This is a question
 
 ### Can I rent the orchard for my event?
 This is a question
-
-# This is a H1
-
-## This is a H2
-
-### This is a H3
-
-#### This is a H4       
