@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 subtitle: Others have asked so you don't have to
 ---
 
-# Frequently Asked Questions
+* auto-gen TOC:
 {:toc}
 
 ### Question 1
