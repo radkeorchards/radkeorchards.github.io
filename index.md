@@ -5,7 +5,7 @@ subtitle: Since 1894 - A memorable apple picking experience
 cover-img: ['/assets/img/Orchard-Intro-Video-Fly-Over-1.jpg','/assets/img/Orchard-Intro-Video-Blossoms-2.jpg','/assets/img/Orchard-Intro-Video-Tractor-2.jpg']
 ---
 {: .box-success}
-This is a DEV version of the new Radke Orchards site.
+We are currently closed for the season. We will be opening August 31st for the 2024 season.
 
 ![Honeycrisp Apple](assets/img/honeycrisp.jpg){: .mx-auto.d-block :}
 
@@ -26,8 +26,14 @@ This is a DEV version of the new Radke Orchards site.
 We are located just south of Michigan City, Indiana.
 
 Radke Orchards
+
 8999 W 200 N
+
 Michigan City, IN 46360
+
+Hours: 8:30am - 5:30pm Central Time (7 days a week) during our open season
+
+Phone: (219) 872-3140
 
 [Get Directions](https://www.google.com/maps/dir//8999%20W%20200%20N%2046360)
 
@@ -40,3 +46,4 @@ Michigan City, IN 46360
 | Gala | Golden Delicious | Granny Smith |
 | Honeycrisp | Red Delicious | Fuji |
 | Blondee | Golden Russet | Suncrisp |
+
