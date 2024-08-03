@@ -1,20 +1,35 @@
 ---
 layout: page
 title: Apple Varieties
-subtitle: Over 30 to choose from!
+subtitle: Over 20 to choose from!
 ---
 
 ## Early Varieties (Late August - Early September)
 
-* Honeycrisp
-* Gala
 * Blondee
+* Gala
+* Honeycrisp
+* MacIntosh
 
 ## Mid-Season Varieties (Early September - Late September)
 
-* Mutsu
+* Cortland
+* Delicious (Red)
+* Empire
 * Golden Delicious
+* Grimes
+* Jonathan
+* Twenty Ounce
+* Ruby Jon
 
 ## Late Varieties (Late September - October)
 
+* Cameo
+* Evercrisp
+* Fuji
+* Golden Russet
 * Granny Smith
+* Ida Red
+* Jonagold
+* Mutsu / Crispin
+* Suncrisp
