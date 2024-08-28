@@ -10,6 +10,7 @@ subtitle: Over 20 to choose from!
 * Gala
 * Honeycrisp
 * MacIntosh
+* Sommerset
 
 ## Mid-Season Varieties (Early September - Late September)
 

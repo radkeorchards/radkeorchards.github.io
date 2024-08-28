@@ -6,7 +6,7 @@ cover-img: ['/assets/img/Orchard-Intro-Video-Fly-Over-1.jpg','/assets/img/Orchar
 ---
 {: .box-success}
 We will be opening August 31st for the 2024 season. \
-Varieties for opening weekend: Honeycrisp, Gala, Blondee, McIntosh, Summerset
+Current Varieties: Honeycrisp, Gala, Blondee, McIntosh, Summerset
 
 ![Honeycrisp Apple](assets/img/honeycrisp.jpg){: .mx-auto.d-block :}
 
